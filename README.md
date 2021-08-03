@@ -22,7 +22,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/bossoq/marketstatisticsaleph">
+  <a href="https://github.com/bossoq/MarketStatisticsAleph">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -31,14 +31,14 @@
   <p align="center">
     A Project to calculate Stock Market Return from Source
     <br />
-    <a href="https://github.com/bossoq/marketstatisticsaleph"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/bossoq/MarketStatisticsAleph"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://setmarketstatistics.herokuapp.com">View Demo</a>
     ·
-    <a href="https://github.com/bossoq/marketstatisticsaleph/issues">Report Bug</a>
+    <a href="https://github.com/bossoq/MarketStatisticsAleph/issues">Report Bug</a>
     ·
-    <a href="https://github.com/bossoq/marketstatisticsaleph/issues">Request Feature</a>
+    <a href="https://github.com/bossoq/MarketStatisticsAleph/issues">Request Feature</a>
   </p>
 </p>
 
@@ -99,10 +99,10 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/bossoq/marketstatisticsaleph.git
+   git clone https://github.com/bossoq/MarketStatisticsAleph.git
    ```
 
-2. Create Supapbase DB with 3 tables (please see [dbtypes.ts](https://github.com/bossoq/marketstatisticsaleph/blob/main/interfaces/dbtypes.ts) for additional info)
+2. Create Supapbase DB with 3 tables (please see [dbtypes.ts](https://github.com/bossoq/MarketStatisticsAleph/blob/main/interfaces/dbtypes.ts) for additional info)
 
    ```sh
    Bond_Yield
@@ -140,7 +140,7 @@ To get a local copy up and running follow these simple steps.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/bossoq/marketstatisticsaleph/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/bossoq/MarketStatisticsAleph/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -158,7 +158,7 @@ Contributions are what make the Market Statistics, inspire, and create. Any cont
 
 K. Wajakajornrit - [@Bosskun_](https://twitter.com/Bosskun_) - kittipos@picturo.us
 
-Project Link: [https://github.com/bossoq/marketstatisticsaleph](https://github.com/bossoq/marketstatisticsaleph)
+Project Link: [https://github.com/bossoq/MarketStatisticsAleph](https://github.com/bossoq/MarketStatisticsAleph)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
@@ -171,14 +171,14 @@ Project Link: [https://github.com/bossoq/marketstatisticsaleph](https://github.c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/bossoq/marketstatisticsaleph.svg?style=for-the-badge
-[contributors-url]: https://github.com/bossoq/marketstatisticsaleph/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/bossoq/marketstatisticsaleph.svg?style=for-the-badge
-[forks-url]: https://github.com/bossoq/marketstatisticsaleph/network/members
-[stars-shield]: https://img.shields.io/github/stars/bossoq/marketstatisticsaleph.svg?style=for-the-badge
-[stars-url]: https://github.com/bossoq/marketstatisticsaleph/stargazers
-[issues-shield]: https://img.shields.io/github/issues/bossoq/marketstatisticsaleph.svg?style=for-the-badge
-[issues-url]: https://github.com/bossoq/marketstatisticsaleph/issues
+[contributors-shield]: https://img.shields.io/github/contributors/bossoq/MarketStatisticsAleph.svg?style=for-the-badge
+[contributors-url]: https://github.com/bossoq/MarketStatisticsAleph/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/bossoq/MarketStatisticsAleph.svg?style=for-the-badge
+[forks-url]: https://github.com/bossoq/MarketStatisticsAleph/network/members
+[stars-shield]: https://img.shields.io/github/stars/bossoq/MarketStatisticsAleph.svg?style=for-the-badge
+[stars-url]: https://github.com/bossoq/MarketStatisticsAleph/stargazers
+[issues-shield]: https://img.shields.io/github/issues/bossoq/MarketStatisticsAleph.svg?style=for-the-badge
+[issues-url]: https://github.com/bossoq/MarketStatisticsAleph/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/kittiposw
 [product-screenshot]: images/screenshot.jpg
