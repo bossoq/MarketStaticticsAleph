@@ -1,0 +1,17 @@
+{
+  "imports": {
+    "~/": "./",
+    "aleph/": "https://deno.land/x/aleph@v0.3.0-alpha.33/",
+    "aleph/types": "https://deno.land/x/aleph@v0.3.0-alpha.33/types.ts",
+    "framework": "https://deno.land/x/aleph@v0.3.0-alpha.33/framework/core/mod.ts",
+    "framework/react": "https://deno.land/x/aleph@v0.3.0-alpha.33/framework/react/mod.ts",
+    "react": "https://esm.sh/react@17.0.2",
+    "react-dom": "https://esm.sh/react-dom@17.0.2",
+    "react-fontawesome": "https://cdn.skypack.dev/@fortawesome/react-fontawesome",
+    "fontawesome-svg-core": "https://cdn.skypack.dev/@fortawesome/fontawesome-svg-core",
+    "fab-svg-solid": "https://cdn.skypack.dev/@fortawesome/free-brands-svg-icons",
+    "fas-svg-solid": "https://cdn.skypack.dev/@fortawesome/free-solid-svg-icons",
+    "supabase-js": "http://esm.sh/@supabase/supabase-js"
+  },
+  "scopes": {}
+}

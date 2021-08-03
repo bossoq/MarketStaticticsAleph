@@ -1,0 +1,61 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
+
+@font-face {
+  font-family: 'Sukhumvit Set';
+  src: url('fonts/SukhumvitSet-Bold.woff2') format('woff2'),
+      url('fonts/SukhumvitSet-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sukhumvit Set';
+  src: url('fonts/SukhumvitSet-Medium.woff2') format('woff2'),
+      url('fonts/SukhumvitSet-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sukhumvit Set';
+  src: url('fonts/SukhumvitSet-Light.woff2') format('woff2'),
+      url('fonts/SukhumvitSet-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sukhumvit Set';
+  src: url('fonts/SukhumvitSet-Text.woff2') format('woff2'),
+      url('fonts/SukhumvitSet-Text.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sukhumvit Set';
+  src: url('fonts/SukhumvitSet-Thin.woff2') format('woff2'),
+      url('fonts/SukhumvitSet-Thin.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Sukhumvit Set';
+  src: url('fonts/SukhumvitSet-SemiBold.woff2') format('woff2'),
+      url('fonts/SukhumvitSet-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  font-family: 'Sukhumvit Set';
+  /* margin: 0; */
+  scroll-behavior: smooth;
+}
